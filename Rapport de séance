@@ -1,18 +1,21 @@
-1er seance :
+1er seance (01/10/2021) :
 - Découverte du projet et de la datasheet de l'amplificateur
 
-2eme séance :
+2eme séance (22/10/2021) :
 - Découverte du détécteur d'enveloppe
 - Approfondissement dans l'apprentissage de la carte et de son fonctionnement.
 
-3eme séance :
+3eme séance (12/11/2021) :
 - Récupération de la carte et mise en place de test fonctionnel
 
-4eme séance :
+4eme séance (10/12/2021) :
 - Présentation du projet à l'oral (Présentation noté)
 
-5ème séance :
+5ème séance (07/01/2022) :
 - Soudure des composants sur la nouvelle carte
 
-6 - 7 ème séance :
-- Mise en place des test fonctionnel sur les deux carte (MAX9814 et le PCB)
+6ème séance (03/02/2022) :
+Brasage et découverte de la structure de cablage du système.
+
+7 ème séance (04/02/2022) :
+- Mise en place des test fonctionnel sur les deux carte (MAX9814 et le PCB).
