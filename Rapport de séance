@@ -19,3 +19,8 @@ Brasage et découverte de la structure de cablage du système.
 
 7 ème séance (04/02/2022) :
 - Mise en place des test fonctionnel sur les deux carte (MAX9814 et le PCB).
+
+8 ème séance (11/02/2022) :
+-  But : Mettre en place le systeme complet sur une bread board (Micro, Amplificateur a gain variable, 4 cartes de detection de frequence).
+-  Problematique : Certaine cartes ne detecte pas les frequences demandé, egalement, aucun signal detecté en sortie de l´ampli.
+-  Solution : Changement de micro, sinon de l´amplificateur tests supplementaire a effectuer prochaine seance.
