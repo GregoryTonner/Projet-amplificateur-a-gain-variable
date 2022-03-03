@@ -42,7 +42,7 @@ Une autre carte d'amplification de gain est utilisé avec un nouveau micro, ce q
 J'ai commencé les tests sur les fichier audio de bourdon et un résultat est apparu sur le fichier "vvn_20210910-170436" à 41 sec les 4 LED s'allume. 
 La quasi-totalté du fichier "vvn_2020-09-23-102412" déclenche les LED. (Tout les fichier permette de déclencher les 4 LED sauf "vvn_20210910-171043").
 Début de la création du PCB qui comprend toute les carte de détéction de fréquence avec l'amplificateur et le micro pour simplifier les tests futurs.
-
+Pour la prochaine séance, faire le designe du PCB sur eagle.
 
 10ème séance (04/03/2022) :
 - But : Créer une carte PCB pour la détéction de fréquence.
