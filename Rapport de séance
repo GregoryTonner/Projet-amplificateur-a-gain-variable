@@ -23,11 +23,30 @@ Brasage et découverte de la structure de cablage du système.
 8 ème séance (11/02/2022) :
 -  But : Mettre en place le systeme complet sur une bread board (Micro, Amplificateur a gain variable, 4 cartes de detection de frequence).
 -  Problematique : Certaine cartes ne detecte pas les frequences demandé, egalement, aucun signal detecté en sortie de l´ampli.
--  Solution : Changement de micro, sinon de l´amplificateur tests supplementaire a effectuer prochaine seance.
--  Prochaine séance : Continuer les tests en changeant de micro.
+-  Solution + Prochaine séance : Changement de micro, sinon de l´amplificateur tests supplementaire a effectuer prochaine seance.
+
+Decription : 
+  J'ai testé les 4 cartes simultanément dans le but de faire fonctionner le systeme complet, au final les LED ne s'allume pas et aucun signal n'est mesurable en sortie de la carte
+  d'amplification, une des problématique est que en sortie du micro le signal n'est pas exploitable. 
+  Une des possibles solutions est que la carte d'amplification ne fonctionne plus, sinon c'est le micro.
+  Un test avec GBF a été fait et les resultats sont les mêmes.
 
 9ème séance (03/03/2022) :
 
 But : Continuer les test de détéction de fréquence en changeant de micro voir d'amplificateur.
-Problématique : 
-Solution : 
+Problématique : Trouver une solution dans le but de faire fonctionner le système globale.
+Solution : Carte d'amplification modifié
+
+Description :
+Une autre carte d'amplification de gain est utilisé avec un nouveau micro, ce qui amène au fonctionnement des carte de détéction de fréquence.
+J'ai commencé les tests sur les fichier audio de bourdon et un résultat est apparu sur le fichier "vvn_20210910-170436" à 41 sec les 4 LED s'allume. 
+La quasi-totalté du fichier "vvn_2020-09-23-102412" déclenche les LED. (Tout les fichier permette de déclencher les 4 LED sauf "vvn_20210910-171043").
+Début de la création du PCB qui comprend toute les carte de détéction de fréquence avec l'amplificateur et le micro pour simplifier les tests futurs.
+
+
+10ème séance (04/03/2022) :
+- But : Créer une carte PCB pour la détéction de fréquence.
+- Problématique:
+- Solution :
+
+Description :
