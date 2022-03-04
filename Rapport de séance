@@ -46,7 +46,18 @@ Pour la prochaine séance, faire le designe du PCB sur eagle.
 
 10ème séance (04/03/2022) :
 - But : Créer une carte PCB pour la détéction de fréquence et découvrir les fonctionnalités de EAGLE.
-- Problématique:
+- Problématique: Mise en place d'un schéma fonctionnel sur EAGLE.
+- Solution : Pas de solution pour l'instant.
+
+Description :
+J'ai commencé par supprimer les parties inutile sur le schéma (Amplification faite par une partie du schéma et non pas par le MAX9814) pour relier l'entrée du microphone
+à l'amplificateur MAX9814. Dans un premier temps je vais faire le schéma uniquement pour un seul détécteur de fréquence, une fois fonctionnel pour 1 je finirais pas faire une 
+carte globale pour les 4 detecteur de fréquence.
+Prochain cours présentation de mi-parcours, après cela je continuerais à essayer de rendre fontionnel mon schéma pour ensuite relier les 4.
+
+11ème séance (11/03/2022) : 
+- But :
+- Problématique :
 - Solution :
 
 Description :
