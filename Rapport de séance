@@ -57,13 +57,18 @@ Prochain cours présentation de mi-parcours, après cela je continuerais à essa
 
 11ème séance (11/03/2022) : 
 - But : Présentation de mi-parcours de projet et création du PCB
-- Problématique : Manque d'information sur l'utilisation de EAGLE
-- Solution : Demander à Mr.Peter ou voir sur internet
+- Problématique : LED s'allume lorsque qu'une fréquence minimum est détécté 
+- Solution : A determiner prochaine séance
 
 Description :
 Le schéma du PCB est fait, les 4 détecteurs de fréquence sont relié avec chaque un jumper, si les 4 jumpers sont relié alors toutes les fréquences seront détécté.
 Le resistance variable était utile lorsque je voulais utilisé une seule carte pour mesurer des fréquences, mais dans le cas ou un PCB avec 4 détécteurs est mis en place je
 pense qu'une seule valeur de resistance est suffisante.
+J'ai initialisé l'amplificateur avec les mêmes caractéristiques que sur la carte d'évalutation d'AdaFruit : "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-agc-electret-microphone-amplifier-max9814.pdf".
+La plus grosse problématique rencontré est que la LED va s'allumer si une fréquence minimum est détécté alors que ce qui est recherché est l'allumage de la LED à la détéction
+des 4 fréquences simultanément. 
+Objectif pour la prochaine séance : Mettre à jour le schéma pour répondre à la problématique de la dernière séance, et commencer la mise en forme des composants et le routage 
+du PCB.
 
 
 
