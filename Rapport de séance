@@ -56,8 +56,19 @@ carte globale pour les 4 detecteur de fréquence.
 Prochain cours présentation de mi-parcours, après cela je continuerais à essayer de rendre fontionnel mon schéma pour ensuite relier les 4.
 
 11ème séance (11/03/2022) : 
-- But :
-- Problématique :
-- Solution :
+- But : Présentation de mi-parcours de projet et création du PCB
+- Problématique : Manque d'information sur l'utilisation de EAGLE
+- Solution : Demander à Mr.Peter ou voir sur internet
 
 Description :
+Le schéma du PCB est fait, les 4 détecteurs de fréquence sont relié avec chaque un jumper, si les 4 jumpers sont relié alors toutes les fréquences seront détécté.
+Le resistance variable était utile lorsque je voulais utilisé une seule carte pour mesurer des fréquences, mais dans le cas ou un PCB avec 4 détécteurs est mis en place je
+pense qu'une seule valeur de resistance est suffisante.
+
+
+
+
+
+
+
+
