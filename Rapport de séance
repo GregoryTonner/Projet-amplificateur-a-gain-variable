@@ -70,6 +70,18 @@ des 4 fréquences simultanément.
 Objectif pour la prochaine séance : Mettre à jour le schéma pour répondre à la problématique de la dernière séance, et commencer la mise en forme des composants et le routage 
 du PCB.
 
+12ème séance (29/03/2022) :
+
+But : Mettre en place sur le schéma de la carte le système de détéction pour les 4 LED
+Problématique : Adaptation du schéma de détéction sur la carte
+Solution (à la problématique de la séance 11) : Mr Peter à mis en place un schéma permettant d'allumer la LED lorsque les 4 fréquences sont détécté.
+
+Description :
+
+J'ai mis en place le schéma de détéction sur EAGLE et je l'ai joint au schéma déjà existant de la carte, j'ai laissé la possiblité l'alimenter le MAX9814 en 5V ou 
+3,3V histoire d'avoir le moins de bruit possible sur l'entrée, l'objectif est de maintenant de faire le layout de la carte (voir fichier EAGLE MAX9814 sur github)
+
+
 
 
 
